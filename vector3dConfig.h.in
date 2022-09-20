@@ -1,0 +1,3 @@
+#define vector3d_VERSION_MAJOR @vector3d_VERSION_MAJOR@
+#define vector3d_VERSION_MINOR @vector3d_VERSION_MINOR@
+#define vector3d_VERSION_PATH @vector3d_VERSION_PATCH@
